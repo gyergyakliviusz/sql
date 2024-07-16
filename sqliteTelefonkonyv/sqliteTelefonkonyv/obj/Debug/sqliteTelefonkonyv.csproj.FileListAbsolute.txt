@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\sqliteTelefonkonyv\sqliteTelefonkonyv\bin\Debug\sqliteTelefonkonyv.exe.config
+C:\Users\user\Downloads\sqliteTelefonkonyv\sqliteTelefonkonyv\bin\Debug\sqliteTelefonkonyv.exe
+C:\Users\user\Downloads\sqliteTelefonkonyv\sqliteTelefonkonyv\bin\Debug\sqliteTelefonkonyv.pdb
+C:\Users\user\Downloads\sqliteTelefonkonyv\sqliteTelefonkonyv\obj\Debug\sqliteTelefonkonyv.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\sqliteTelefonkonyv\sqliteTelefonkonyv\obj\Debug\sqliteTelefonkonyv.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\sqliteTelefonkonyv\sqliteTelefonkonyv\obj\Debug\sqliteTelefonkonyv.exe
+C:\Users\user\Downloads\sqliteTelefonkonyv\sqliteTelefonkonyv\obj\Debug\sqliteTelefonkonyv.pdb
